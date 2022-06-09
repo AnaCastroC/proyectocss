@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+    color:whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.seccion1{
+    padding: 4%;
+    background-image: url(../imgs/backgroundimage.jpg);
+    font-size: 30px;
+    background-position: center;
+    background-size: cover;
+    height:5em;}
+
+.seccion2{
+    color:black; 
+    margin:auto;
+    font-size:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+.seccion2 img{ 
+    height:10em;
+    border: solid 1px black;}
+
+.seccion2 td{
+    padding: 2em;}
+
+.seccion3{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(127, 165, 52);
+    color: white;
+    text-align: center;
+    font-weight: 500;}
